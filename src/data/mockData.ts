@@ -1,10 +1,10 @@
 
 export const mockData = {
   profile: {
-    name: "Ethan Carter",
+    name: "UFITINEMA Nickson",
     title: "Software Developer",
     location: "Based in San Francisco, CA",
-    avatar: "/placeholder.svg",
+    avatar: "/profile.webp",
     contact: {
       phone: "(555) 123-4567",
       email: "ethan.carter@example.com",

@@ -17,7 +17,7 @@ const Navigation = () => {
   return (
     <nav className="bg-slate-800 px-8 py-4 flex justify-between items-center">
       <div className="text-white text-xl font-bold">
-        Ethan's Portfolio
+        UFITINEMA Nickson
       </div>
       
       <div className="flex items-center space-x-8">
